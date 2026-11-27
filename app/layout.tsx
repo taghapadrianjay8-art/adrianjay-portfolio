@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'Adrian Jay — GoHighLevel & Creative Specialist',
-  description: 'GoHighLevel funnels, landing pages, survey experiences, digital creative, video editing, and AI-assisted content.',
+  description: 'GoHighLevel funnels, landing pages, survey experiences, digital creative, video editing, and AI-assisted content.',\n  themeColor: '#4B5320',
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
